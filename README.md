@@ -1,5 +1,7 @@
 # CourseProjekt
 
+I was so proud of me accomplishing this. Howerver with further experience I realised that I am actually more into backend development and I have not developed frontend applications since then.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.1.
 
 ## Development server
